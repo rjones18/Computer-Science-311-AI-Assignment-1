@@ -28,4 +28,3 @@ The model is trained on the [Gold Price Prediction Dataset](https://www.kaggle.c
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/gold-price-prediction.git](https://github.com/yourusername/gold-price-prediction.git)
-   cd gold-price-prediction
